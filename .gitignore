@@ -20,3 +20,7 @@ env/
 # Large simulation output / temporary files
 *.log
 *.tmp
+
+# MATLAB autosave and cache files
+*.asv
+

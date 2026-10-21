@@ -24,3 +24,17 @@ env/
 # MATLAB autosave and cache files
 *.asv
 
+# Compiled binaries and executables
+*.exe
+*.dll
+
+# MATLAB Compiler build artifacts
+release/
+buildresult.json
+requiredMCRProducts.txt
+unresolvedSymbols.txt
+includedSupportPackages.txt
+mccExcludedFiles.log
+scripts/readme.txt
+
+
